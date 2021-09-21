@@ -41,3 +41,4 @@ int main()
     findVarNoumber(surname, kol);
     return 0;
 }
+
