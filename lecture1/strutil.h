@@ -5,4 +5,3 @@
 int strConteins(char* a, char* str);
 //#endif // !STRUTIL_H
 
-
